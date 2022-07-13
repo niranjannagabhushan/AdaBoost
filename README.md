@@ -1,2 +1,2 @@
 # AdaBoost
-Files Containing Notebooks on AdaBoost Bossting Algorithm
+Files Containing Notebooks on AdaBoost : Adaptive Boosting Algorithm
